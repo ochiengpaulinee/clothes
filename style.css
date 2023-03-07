@@ -1,0 +1,163 @@
+ **{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+ .container Ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 150px;
+}
+#jon1{
+    float: left;
+    width: 10%;
+}
+#p1{
+    text-align: center;
+    font-style: normal;
+    font-size: 60px;
+    color:chocolate;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+    margin-top: -5%;
+}
+#jon3{
+    width: 30%;
+    float: left;
+    margin-left: 6%;
+    height: 8%;
+}
+#jon4{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+#dress{
+    width: 30%;
+    float: right;
+    /* margin-right: 10%; */
+}
+#p2{
+    text-align: center;
+    font-size: 48px;
+    margin-right: 25%;
+
+}
+#p3{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 10%;
+}
+.cont{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+#kids{
+    width: 30%;
+    float: left;
+    margin-left: 7%;
+    margin-top: 2%;
+}
+#p4{
+    margin-right: 50%;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 1%;
+}
+#ladies{
+    float: left;
+    margin-left: 1%;
+    width: 30%;
+}
+#p5{
+    margin-left: 50%;
+    font-style: italic;
+    font-weight: 900;
+    margin-top: -2%;
+}
+#men{
+    float: right;
+    /* margin-right: 10%; */
+    width: 30%;
+}
+#p6{
+    margin-top: -2%;
+    float: right;
+    margin-right: 8%;
+    font-weight: bold;
+    font-style:italic ;
+
+}
+#p7{
+/* text-align: center; */
+float: right;
+margin-top: 4%;
+margin-right: 40%;
+font-style: italic;
+font-size: larger;
+
+/* margin: top 30px;; */
+}
+#p8{
+    text-decoration: wavy;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 28%;
+}
+#socks{
+    float: left;
+    margin-left: 20%;
+    width: 30%;
+}
+#scarf{
+    float: right;
+    margin-right: 17%;
+    width: 33%;
+}
+#unders{
+    float: left;
+    width: 25%;
+    margin-left: 20%;
+}
+#p9{
+    text-align:center ;
+    font-style: 30px;
+    margin: bottom 2px;
+    font-style: italic;
+}
+.footer{
+    margin-left: 20%;
+    margin-top: 40%;
+}
+.footerr{
+    display: flex;
+    background-color:blue;
+}
+.footer1{
+    margin-left: 45%;
+    margin-top: -7%;
+}
+.footer2{
+    margin-right: 20%;
+    float: right;
+    margin-top: -11%;
+}
+.button{
+    float: right;
+    margin-top: 9%;
+    margin-right: 40%;
+    background-color: brown;
+
+}
+.footer3{
+    float: right;
+    margin-top: -10%;
+}
+.bod{
+    background-color: navajowhite;
+}
